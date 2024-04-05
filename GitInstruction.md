@@ -50,3 +50,5 @@
 * git branch -m origin main;
 4. git clone https://github.com/IvanGuryanov/lesson3_1.git клонировать из GITHUB проект на локальный ПК;
 5. git push origin main залить содержимое локального репо в репо на GITHUB;
+6. git remote show origin - покажет к адреса внешних репозиториев;
+7. git pull origin main - получает изменения с внешнего репозитория, в нашем случае GITHUB
